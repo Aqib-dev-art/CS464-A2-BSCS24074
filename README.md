@@ -11,7 +11,7 @@
 <img src="Docs/game1/3.jpg" width="240">
 </p>
 
-1. [M1, M4, M6] · Running down the track on a hoverboard, with the score, the x1 multiplier and the hoverboard timer bar on screen.
+1. [M1, M4, M6]  · Running down the track on a hoverboard, with the score, the x1 multiplier and the hoverboard timer bar on screen.
 2. [M3, M5, M7] · Jumping with the super sneakers onto a train roof to collect the coins lying on top.
 3. [M2, M5] · Flying with the jetpack past a train and a barrier, with the magnet, sneakers and x2 pick-up icons above.
 
